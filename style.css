@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+}
+
+.input-field {
+    width: 300px; 
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 15px;
+    border-color: rgba(255, 0, 0, 0.26);
+
+}
